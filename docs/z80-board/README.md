@@ -4,7 +4,7 @@ A Z80 CPU board for a `RC2014 v1.0` compatible bus.
 
 Loosely based on the [RC2014 Z80 CPU v2.1](https://rc2014.co.uk/modules/z80-cpu-v2-1/) module but using stripboard.
 
-![./z80-board.png](Board image)
+![Board image](./z80-board.png)
 
 The main change is an explicit pullup on the `/RST` pin. The 10nF decoupling capacitor should be wired between pins 11 and 29 on the underside of U1. Alternatively, straddle it across lines 17 and 18 of the bus.
 
