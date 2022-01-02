@@ -19,8 +19,8 @@ The stripboard file is created in [DIY Layout Creator](https://bancika.github.io
 Part | Count | Description
 --- | --- | ---
 R1-R5 | 5 | 10K Ohm wire resistor
-H1 | 1 | 40-pin right angled 0.1" SIL pin header
-H2 | 1 | 10-pin right angled 0.1" SIL pin header
+H1 | 1 | 40-pin right angled 0.1" SIL male pin header
+H2 | 1 | 10-pin right angled 0.1" SIL male pin header
 S1 | 1 | 40-pin 0.6" DIP socket
 U1 | 1 | 40-pin Z80 CPU
 C1 | 1 | 10nF Ceramic Capacitor

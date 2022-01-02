@@ -6,9 +6,9 @@ This is a work in progress project. Follow the story [on the blog](https://www.e
 
 ## Modules
 
+- [Backplane](./docs/backplane/README.md)
 - [Z80 CPU Board](./docs/z80-board/README.md)
 - Clock board - TBD
-- Backplane - TBD
 - Serial IO board - TBD
 
 ## Acknowledgements
